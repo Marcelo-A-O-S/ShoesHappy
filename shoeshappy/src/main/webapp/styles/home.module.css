@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.text-google{
+	font-family: 'Shantell Sans', cursive;
+	font-weight: 700;
+}
+.sapato2{
+	transform: scaleX(-1);
+}
