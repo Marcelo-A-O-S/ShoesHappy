@@ -1,5 +1,5 @@
 # ShoesHappy
-Aplicação desenvolvida para avaliação na disciplina de Desenvolvimento de Sistemas
+Aplicação desenvolvida para avaliação na disciplina de Desenvolvimento de Sistemas do SENAI
 Esse repositorio possui:
 Codigo fonte da aplicação;
 Scripts sql usados no banco de dados do Mysql.
@@ -14,3 +14,7 @@ Clique em "Finish" (Concluir).
 
 Clique com o botão direito em cima do projeto.
 Escolha "Run As" (Executar Como) > "Run on Server".
+
+# Apresentação
+
+https://github.com/user-attachments/assets/5b632d2d-3ecb-4073-a96f-d61f52fa71b0
